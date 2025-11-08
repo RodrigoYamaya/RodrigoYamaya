@@ -14,8 +14,8 @@ Me chamo Rodrigo Yamaya, sou estudante de **Ciência da Computação** e apaixon
 ---
 
 ## 📊 Estatísticas
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoYamaya&show_icons=true&theme=radical&hide_title=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoYamaya&layout=compact&theme=radical)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoYamaya&show_icons=true&theme=radical&hide_title=true&count_private=true&cache_buster=20251108)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoYamaya&layout=compact&theme=radical&cache_buster=20251108)
 
 ---
 
