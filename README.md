@@ -29,9 +29,11 @@ Busco constantemente evoluir tecnicamente e construir soluções **escaláveis, 
 
 ## 📊 Atividade no GitHub
 
-> Estatística estável e amplamente aceita por recrutadores
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RodrigoYamaya\&theme=radical)
+<p align="left">
+  <img src="https://img.shields.io/github/followers/RodrigoYamaya?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/RodrigoYamaya?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/RodrigoYamaya/RodrigoYamaya?style=for-the-badge" />
+</p>
 
 ---
 
