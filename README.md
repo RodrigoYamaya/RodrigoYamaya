@@ -27,14 +27,4 @@ Busco constantemente evoluir tecnicamente e construir soluções **escaláveis, 
 
 ---
 
-## 📊 Atividade no GitHub
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/RodrigoYamaya?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/RodrigoYamaya?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/RodrigoYamaya/RodrigoYamaya?style=for-the-badge" />
-</p>
-
----
-
 📈 *"O fracasso não é motivo para desistir. É apenas mais uma oportunidade de aprender."* — **Jiraiya**
