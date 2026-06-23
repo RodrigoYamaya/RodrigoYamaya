@@ -6,10 +6,6 @@ Sou estudante de **Ciência da Computação** no Rio de Janeiro e atualmente atu
 
 Tenho experiência na criação de **APIs RESTful**, aplicando **boas práticas de arquitetura**, **segurança com JWT e Spring Security**, e **persistência de dados com JPA/Hibernate**. Busco constantemente evoluir tecnicamente, explorando conceitos de mensageria, conteinerização e integração contínua para construir soluções escaláveis, seguras e bem estruturadas.
 
-### 🚀 O que estou construindo e estudando:
-* Aprofundando conhecimentos em **DevOps**, **Docker**, **CI/CD (GitHub Actions)** e filas de mensageria com **RabbitMQ**.
-* Desenvolvimento de APIs rápidas e modernas utilizando **Python e FastAPI**.
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
