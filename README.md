@@ -2,9 +2,7 @@
 
 **Desenvolvedor Backend | Java, Spring Boot & Python**
 
-Sou estudante de *Ciência da Computação, com foco em **desenvolvimento backend* utilizando *Java e Spring Boot*.
-Tenho experiência na criação de *APIs RESTful, aplicando **boas práticas de arquitetura, **segurança com JWT, **persistência de dados* e *testes automatizados*.
-Busco constantemente evoluir tecnicamente e construir soluções *escaláveis, seguras e bem estruturadas*.
+"Sou estudante de Ciência da Computação com foco em desenvolvimento backend utilizando Java e Spring Boot. Tenho experiência na criação de APIs RESTful, aplicando boas práticas de arquitetura, segurança com JWT, persistência de dados e testes automatizados. Busco constantemente evoluir tecnicamente e construir soluções escaláveis, seguras e bem estruturadas."
 
 ---
 
