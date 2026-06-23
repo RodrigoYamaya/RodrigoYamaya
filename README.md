@@ -2,9 +2,9 @@
 
 **Desenvolvedor Backend | Java, Spring Boot & Python**
 
-Sou estudante de **Ciência da Computação** no Rio de Janeiro e atualmente atuo na área de **QA Automation**, o que me proporcionou uma base forte na valorização da qualidade de software e criação de testes automatizados. Meu grande foco e objetivo de carreira é o **desenvolvimento backend**. 
-
-Tenho experiência na criação de **APIs RESTful**, aplicando **boas práticas de arquitetura**, **segurança com JWT e Spring Security**, e **persistência de dados com JPA/Hibernate**. Busco constantemente evoluir tecnicamente, explorando conceitos de mensageria, conteinerização e integração contínua para construir soluções escaláveis, seguras e bem estruturadas.
+Sou estudante de *Ciência da Computação, com foco em **desenvolvimento backend* utilizando *Java e Spring Boot*.
+Tenho experiência na criação de *APIs RESTful, aplicando **boas práticas de arquitetura, **segurança com JWT, **persistência de dados* e *testes automatizados*.
+Busco constantemente evoluir tecnicamente e construir soluções *escaláveis, seguras e bem estruturadas*.
 
 ---
 
@@ -39,8 +39,8 @@ Tenho experiência na criação de **APIs RESTful**, aplicando **boas práticas 
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RodrigoYamaya/RodrigoYamaya/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/RodrigoYamaya/RodrigoYamaya/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoYamaya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoYamaya&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 <br>
